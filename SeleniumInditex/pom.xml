@@ -71,7 +71,8 @@
     <javax.test.framework.systemproperty.allure.framework.properties.file>
       org.apache.commons.io.FilenameFilter.ALLOW_ALL=true
     </javax.test.framework.systemproperty.allure.framework.properties.file>
-
+    <sonar.organization>eliaparra</sonar.organization>
+    <sonar.host.url>https://sonarcloud.io</sonar.host.url>
 
   </properties>
   <dependencies>
